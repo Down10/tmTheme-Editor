@@ -67,6 +67,8 @@
 {"name": "Coal Graal", "url": "https://raw.githubusercontent.com/baskerville/Coal-Graal.tmTheme/master/Coal%20Graal.tmTheme", "light": false },
 {"name": "Cobalt", "url": "https://raw.githubusercontent.com/filmgirl/TextMate-Themes/master/Cobalt.tmTheme", "light": false },
 {"name": "Coda", "url": "https://raw.githubusercontent.com/chriskempson/coda-textMate-theme/master/Coda.tmTheme", "light": true },
+{"name": "Confectio Dark", "url": "https://raw.githubusercontent.com/Down10/Confectio/master/Confectio%20Dark.tmTheme", "light": false },
+{"name": "Confectio Light", "url": "https://raw.githubusercontent.com/Down10/Confectio/master/Confectio%20Light.tmTheme", "light": true },
 {"name": "Crayon Pony Fish", "url": "https://raw.githubusercontent.com/idleberg/Zissou.tmTheme/master/Crayon-Pony-Fish.tmTheme", "light": false },
 {"name": "CSSEdit", "url": "https://raw.githubusercontent.com/filmgirl/TextMate-Themes/master/CSSEdit.tmTheme", "light": true },
 {"name": "Cube2Media", "url": "https://raw.githubusercontent.com/electricgraffitti/sublime-theme-Cube2/master/Cube2Media.tmTheme", "light": false },
